@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Local environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: keep datasets and model artifacts out of Git
+# Remove these two lines if you deliberately choose to commit them.
+# dataset/
+# models/
